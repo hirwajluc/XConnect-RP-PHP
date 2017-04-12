@@ -1,11 +1,11 @@
-Exemple d'intégration de FranceConnect en PHP
+Example of integration of XConnect in PHP
 
-L'exemple inclut une librairie qui peut servir à intégrer FranceConnect dans une application basée sur un framework.
+The sample includes a library that can be used to integrate FranceConnect into a framework-based application.
 
-Vous êtes invités à publier à votre tour le code que vous réaliserez pour votre intégration de FranceConnect, et à nous en communiquer le lien à l'adresse support@franceconnect.gouv.fr
+You are invited to publish the code that you will realize for your integration of XConnect, and to send us the link to the address support@xconnectafrica.com
 
-License : GPLv3
+License: GPLv3
 
-Note: Nos exemples de code proviennent d'intégrateurs comme vous. Nous publions ces exemples pour vous aider à démarrer, mais ils ne sont pas nécessairement complets, ni corrects.
+Note: Our code examples come from integrators like you. We publish these examples to help you get started, but they are not necessarily complete or correct.
 
-Statut de cet exemple au 21/11/2016: Intégration fonctionnelle (connexion et déconnexion). Attention à l'utilisation de mt_rand dans FranceConnect.class.php, qu'il faudrait remplacer par un appel à la fonction random_bytes pour plus de sécurité.
+Status of this example as of 21/11/2016: Functional integration (connection and disconnection). Attention to the use of mt_rand in FranceConnect.class.php, which should be replaced by a call to the random_bytes function for more security.
